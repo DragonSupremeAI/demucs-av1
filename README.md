@@ -44,7 +44,7 @@ You can process a single file or batch process everything in the `input/` folder
 
 ## ⚙️ Configuration
 
-The default separation settings are defined in `scripts/run-demucs.sh`:
+The default audio separation settings are defined in `scripts/run-demucs.sh`:
 - **Model**: `htdemucs_ft`
 - **Segment Length**: `7.5`
 - **Output Mode**: `--two-stems=vocals` (extracts vocals and background tracks)
