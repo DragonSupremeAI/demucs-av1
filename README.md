@@ -39,7 +39,7 @@ You can process a single file or batch process everything in the `input/` folder
 - **`input/`**: Place your source audio files here.
 - **`output/`**: Separated audio tracks will be saved here.
 - **`logs/`**: Detailed logs of Demucs execution.
-- **`demucs-src/`**: Local clone of the Demucs source code.
+- **`demucs-src/`**: Local clone of the Demucs source code (installed when you run master.sh setup) 
 - **`venv/`**: Python virtual environment.
 
 ## ⚙️ Configuration
