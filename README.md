@@ -52,5 +52,7 @@ The default audio separation settings are defined in `scripts/run-demucs.sh`:
 ## 🛠 Requirements
 
 - Linux (Ubuntu/Debian recommended)
-- NVIDIA GPU with CUDA support (recommended for performance)
+- **NVIDIA GPU with CUDA support:**
+  - **Minimum:** 8GB VRAM (e.g., RTX 3060/3070)
+  - **Recommended:** 16GB - 24GB VRAM (e.g., RTX 3090, 4090) for high-quality models and large batches.
 - FFmpeg
